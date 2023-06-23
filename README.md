@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">A software engineer from Las Vegas, NV</h3>
+<h3 align="center">A full-stack developer from Las Vegas, NV</h3>
 
 - 🌱 Currently learning: **Next.js**
-- 💬 Ask me about: **JavaScript, React, Sass, Vue.js, & Express.js**
+- 💬 Ask me about: **JavaScript, React, Sass, Vue.js, Express.js, MongoDB, & PostgreSQL**
 - 📫 How to reach me: **aduong9417@gmail.com**
 - 🔗 Connect with me: **https://www.linkedin.com/in/annaduong17/**
 - 📖 Currently reading: **Thistlefoot by GennaRose Nethercott**
