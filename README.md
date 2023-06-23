@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">A front-end developer from Las Vegas, NV</h3>
+<h3 align="center">A software engineer from Las Vegas, NV</h3>
 
 - 🌱 Currently learning: **Next.js**
 - 💬 Ask me about: **JavaScript, React, Sass, Vue.js, & Express.js**
