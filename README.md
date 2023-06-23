@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **JavaScript, React, Sass, Vue.js, & Express.js**
 - 📫 How to reach me: **aduong9417@gmail.com**
-- ⚡ Fun fact: **I'm a boba addict**
+- 🔗 Connect with me: **https://www.linkedin.com/in/annaduong17/**
+- ⚡ Fun fact: **I like boba, books, and board games**
+- 📖 Currently reading **Thistlefoot by GennaRose Nethercott**
 
 ---
 
