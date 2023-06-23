@@ -2,11 +2,8 @@
 <h3 align="center">A front-end developer from Las Vegas, NV</h3>
 
 - 🌱 I’m currently learning **Next.js**
-
 - 💬 Ask me about **JavaScript, React, Sass, Vue.js, & Express.js**
-
 - 📫 How to reach me: **aduong9417@gmail.com**
-
 - ⚡ Fun fact: **I'm a boba addict**
 
 <h3 align="left">Connect with me:</h3>
