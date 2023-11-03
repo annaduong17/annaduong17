@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">A frontend focused full-stack developer from Las Vegas, NV</h3>
+<h3 align="center">A front-end focused full-stack developer from Las Vegas, NV</h3>
 
 - 💬 Ask me about: **JavaScript, React, Sass, Vue.js, Express.js, MongoDB, & PostgreSQL**
 - 📫 How to reach me: **aduong9417@gmail.com**
