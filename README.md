@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <h3 align="center">A front-end focused software engineer</h3>
 
-- 💬 Ask me about: **JavaScript, React, and SCSS**
+- 💬 Ask me about: **JavaScript, React.js, and SCSS**
 - 📫 How to reach me: **aduong9417@gmail.com**
 - 🔗 Connect with me: **https://www.linkedin.com/in/annaduong17/**
 
