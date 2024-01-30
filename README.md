@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h2 align="center">A Front End Developer</h2>
+<h2 align="center">A front-end focused full-stack developer</h2>
 
-- 💬 Ask me about: **JavaScript, React.js, and SCSS**
+- 💬 Ask me about: **JavaScript, React.js, SCSS, Express.js, & PostgreSQL**
 - 📫 How to reach me: **aduong9417@gmail.com**
 - 🔗 Connect with me: **https://www.linkedin.com/in/annaduong17/**
 
